@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+itcstore.in	TRUE	/	FALSE	1999999999	_landing_page	%2F
+itcstore.in	TRUE	/	FALSE	1999999999	_secure_session_id	62975efce0096411fb767cf0413e655e
+itcstore.in	TRUE	/	FALSE	1999999999	_shopify_evids	pv%3D770597f5f6d6087beb081efcf1d64a5073ad24e9569cf163a11658803d774222
+itcstore.in	TRUE	/	FALSE	1999999999	cart_sig	ec644009b6d7bd424ee7356ae0b3de12
+itcstore.in	TRUE	/	FALSE	1999999999	_y	357120f7-72c1-43d2-ad2d-7f3a3dcd6b3a
+itcstore.in	TRUE	/	FALSE	1999999999	_s	6f1b55c2-032d-4b59-980b-d8c0db712ea6
+itcstore.in	TRUE	/	FALSE	1999999999	_shopify_y	357120f7-72c1-43d2-ad2d-7f3a3dcd6b3a
+itcstore.in	TRUE	/	FALSE	1999999999	_shopify_s	6f1b55c2-032d-4b59-980b-d8c0db712ea6
+itcstore.in	TRUE	/	FALSE	1999999999	SameSite	Lax
+

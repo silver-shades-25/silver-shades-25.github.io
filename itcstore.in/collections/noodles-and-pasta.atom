@@ -1,0 +1,1592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://itcstore.in/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://itcstore.in/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://itcstore.in/collections/noodles-and-pasta.atom"/>
+  <title>ITC eStore</title>
+  <updated>2021-08-31T11:54:42+05:30</updated>
+  <author>
+    <name>ITC eStore</name>
+  </author>
+  <entry>
+    <id>https://itcstore.in/products/6601754181686</id>
+    <published>2021-08-31T11:54:42+05:30</published>
+    <updated>2021-08-31T11:54:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-noodles-magic-masala-135g-ahmedabad-amd"/>
+    <title>Sunfeast YiPPee! Noodles Magic Masala 135g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALARS20-GM_8901725116996_1.jpg?v=1627910823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relish Sunfeast YiPPee!'s long, non-sticky and tasty noodles with a unique blend of spices which gives you a truly magical taste!<br></p>
+<ul>
+<li>Long, Non-Sticky Noodles with the goodness of vegetables, essential nutrients and great taste. <br>
+</li>
+<li>Enriched with goodness of 5 real vegetables <br>
+</li>
+<li>Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein <br>
+</li>
+<li>Delicious blend of Indian spices that provide a magical experience of taste &amp; aroma.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>Ahmedabad-AMD</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Magic Masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>Noodles Pasta</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6601754181686</id>
+      <title>Default Title</title>
+      <s:price currency="INR">24.00</s:price>
+      <s:sku>MAGICMASALARS20</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6616338792502</id>
+    <published>2021-08-30T17:27:47+05:30</published>
+    <updated>2021-08-30T17:27:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/yippee-magic-masala-noodles-420g-chennai-maa"/>
+    <title>Sunfeast YiPPee! Noodles Magic Masala 405g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALA67-GM_8901725116729_1_746a5834-ef29-4778-b953-450d0d47f202.jpg?v=1628312248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1. Sunfeast YiPPee! Magic Masala is the Flagship Variant of the YiPPee! Noodles portfolio. <br>2. Long, Non-sticky and Tasty noodles with a unique blend of spices which gives you a truly magical taste!<br>3. Round Block of Noodles which can be cooked as a whole, without having the need to break. <br>4. Enriched with goodness of 5 real vegetables<br>5. Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Chennai-MAA</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Kitchen Staples</s:tag>
+    <s:tag>Magic Masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>Noodles Pasta</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>Tiffin Fun</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6616338792502</id>
+      <title>Default Title</title>
+      <s:price currency="INR">56.00</s:price>
+      <s:sku>MAGICMASALA67-GM</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6605667139638</id>
+    <published>2021-08-30T17:20:08+05:30</published>
+    <updated>2021-08-30T17:20:08+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-power-up-atta-noodles-280g-4-in-1-pack-indore-idr"/>
+    <title>Sunfeast YiPPee! Power Up Atta Noodles 280g (4 in 1 Pack)</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/Resize-Power-Up-Atta-Noodles_280g_FOP_900x900Pixles-Copy_9fbabf6b-b944-4867-b486-7d01bf4ae1d0.jpg?v=1625921729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            68.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A bowl of wheat atta noodles is the best healthy snack to enjoy within a matter of minutes. WithYiPPee! Atta Noodles, the wholesomeness of wheat and real vegetables join forces to power up your day. With YiPPee Power UpAtta Noodles, you can get the energy and nutrition to do great things and be a true champion. To make it more than just a bowl of tasty instant noodles, Sunfeast YiPPee! Atta Noodles brings together the perfect blend of masala and all-natural ingredients.</p>
+<p><strong>Key Information:</strong></p>
+<ul>
+<li>
+<strong>Main Ingredients: </strong>Sunfeast YiPPee! Power Up Masala Noodles are made from Wheat Flour (Atta).</li>
+<li>
+<strong>Suitable For: </strong>This product is suitable for all healthy individuals and fitness-oriented consumers who love to snack on instant masala noodles. Sunfeast YiPPee! Power Up Masala contains Atta noodles that are healthier and more nutritious than regular Maida-based instant noodles. It is an excellent source of energy and micronutrients for people leading an active lifestyle and wants more from their bowl of noodles. Young students, working professionals, and homemakers can enjoy this tasty, healthy, and filling snack.</li>
+<li>
+<strong>Usage: </strong>YiPPee! Atta Noodles can be used to prepare a scrumptious bowl of instant noodles for the perfect snack. Fresh vegetables like peas, carrots, green beans, and spring onions can be added to spice things up further.</li>
+<li>
+<strong>Quantity: </strong>One pack of YiPPee! Power Up Atta noodles 280g contains four blocks of instant wheat noodles and four packs of tastemakers. This quantity is enough to prepare four standard bowls of instant noodles for a family of four.</li>
+</ul>
+<p>Lip-smacking instant noodles have been an ever-popular snacking option for children and adults alike. With Sunfeast YiPPee! Power Up Masala Noodles, the combination of great taste and good health is now a possibility. The rich texture of the wheat noodles is packed with nutrition and goodness. It has also been infused with real vegetables in every strand. Each pack of wheat atta noodles from Sunfeast YiPPee! is packed with dietary fibre, protein, and loads of micronutrients. It is a rich source of calcium and iron which are highly beneficial for the human body. Together, the scrumptious taste of zesty masala along with long, non-sticky noodles and the promise of healthy nutrition make Sunfeast YiPPee!Atta noodles the perfect snack for everyone. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>280g</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Evening Snacks and Dips</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Indore-IDR</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstoreNoodle</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6605667139638</id>
+      <title>Default Title</title>
+      <s:price currency="INR">68.80</s:price>
+      <s:sku>YIPPEEPOWERUPND280</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6605656326198</id>
+    <published>2021-08-30T17:03:43+05:30</published>
+    <updated>2021-08-30T17:03:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/itc-sunfeast-yippee-saucy-masala-260g-indore-idr"/>
+    <title>ITC Sunfeast YiPPee! Saucy Masala 260G</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YiPPee-Saucy-Masala---260g-Hero-Image_0e037134-201d-4e4a-ab8d-12ec10402bcc.jpg?v=1625920424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            46.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Relish Sunfeast YiPPee!'s long, non-sticky, Saucy noodles with a unique blend of tangy tomato sauce which gives you a truely magical taste. The Masala infused tomato sauce is a delectable new offering from Sunfeast YiPPee!</p>
+<h3 data-mce-fragment="1">How to use</h3>
+<p data-mce-fragment="1">Easy to make in 3 steps, just add the requisite amount of water to which add YiPPee! noodles and Saucy Masala taste maker and cook for 3 minutes</p>
+<p data-mce-fragment="1">1. A delectable blend of masala infused tomato sauce for a saucy and tangy meal<br data-mce-fragment="1">2. An experience of a differentiated and unique taste in YiPPee! saucy masala<br data-mce-fragment="1">3. Long, non-sticky noodles strands<br data-mce-fragment="1">4. YiPPee!'s signature round block ensures you get slurpy delicious noodles every time<br data-mce-fragment="1">5. Easy to prepare - Add saucy masala tastemaker for a quick saucy noodles meal</p>
+<p data-mce-fragment="1">Sunfeast YiPPee! Saucy Masala new tangy flavour from Sunfeast YiPPee! with masala infused tomato sauce for a unique taste experience</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Evening Snacks and Dips</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Indore-IDR</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstoreNoodle</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>New Launch</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Saucy Masala</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6605656326198</id>
+      <title>Default Title</title>
+      <s:price currency="INR">46.40</s:price>
+      <s:sku>SAUCY MASALA 260</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6605667303478</id>
+    <published>2021-08-30T16:40:57+05:30</published>
+    <updated>2021-08-30T16:40:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-cheese-pasta-treat-65g-indore-idr"/>
+    <title>Sunfeast YiPPee! Cheese Pasta Treat 65g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YippeePastaCheese65g1_213e7364-f1d7-4885-8176-91f8626812e4.jpg?v=1625921763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Pasta<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunfeast YiPPee! was the first to launch Instant Pasta in India and is a brand loved by all ages. 
+Sunfeast YiPPee! Pasta Treat is a delectable snack full of benefits – It is made from 100% Suji, not fried and is a source of protein. This delicious snack is not just wholesome but also very easy to cook.  
+Choose your favourite from the extensive range of flavours - Cheese, Masala, Tomato Cheese and Sour cream and onion. 
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Indore-IDR</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstorePasta</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only pasta</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>Tiffin Fun</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6605667303478</id>
+      <title>Default Title</title>
+      <s:price currency="INR">20.00</s:price>
+      <s:sku>YPPASTACHEESE83</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6605658849334</id>
+    <published>2021-08-30T16:40:55+05:30</published>
+    <updated>2021-08-30T16:40:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/yippee-magic-masala-noodles-70g-indore-idr"/>
+    <title>Yippee! Magic Masala Noodles 70G</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/Magic_Masala_70g_BB_Hero_72a0494f-c19f-404c-a5bc-9c918cdfe9b7.jpg?v=1625920822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1. Sunfeast YiPPee! Magic Masala is the Flagship Variant of the YiPPee! Noodles portfolio. <br>2. Long, Non-sticky and Tasty noodles with a unique blend of spices which gives you a truly magical taste!<br>3. Round Block of Noodles which can be cooked as a whole, without having the need to break. <br>4. Enriched with goodness of 5 real vegetables<br>5. Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Indore-IDR</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Magic Masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>Noodles Pasta</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6605658849334</id>
+      <title>Default Title</title>
+      <s:price currency="INR">12.00</s:price>
+      <s:sku>MAGICMASALA90</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6605667270710</id>
+    <published>2021-08-30T16:40:45+05:30</published>
+    <updated>2021-08-30T16:40:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-tomato-cheese-pasta-treat-65g-indore-idr"/>
+    <title>Sunfeast YiPPee! Tomato Cheese Pasta Treat 65g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YippeePastaTomatoCheese65g1_04d376bf-2d28-4c93-9cd1-65728cfac616.jpg?v=1625921754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Pasta<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Sunfeast Pasta Treat is a delectable snack made from wheat semolina and no maida. The tangy tomato and cheese flavour combination will leave you asking for more of this Treat!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Indore-IDR</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstorePasta</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only pasta</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6605667270710</id>
+      <title>Default Title</title>
+      <s:price currency="INR">20.00</s:price>
+      <s:sku>YPPASTATMCHSE83</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6605667237942</id>
+    <published>2021-08-30T16:40:44+05:30</published>
+    <updated>2021-08-30T16:40:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-masala-pasta-treat-65g-indore-idr"/>
+    <title>Sunfeast YiPPee! Masala Pasta Treat 65g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YippeePastatreatMasala65g21_fed4a865-a008-4539-891b-55494196c7dc.jpg?v=1625921746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Pasta<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sunfeast YiPPee! was the first to launch Instant Pasta in India and is a brand loved by all ages. </span><span>Sunfeast YiPPee! Pasta Treat is a delectable snack full of benefits – It is made from 100% Suji, not fried and is a source of protein. This delicious snack is not just wholesome but also very easy to cook. </span><span>Choose your favourite from the extensive range of flavours - Cheese, Masala, Tomato Cheese and Sour cream and onion.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Indore-IDR</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstorePasta</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only pasta</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6605667237942</id>
+      <title>Default Title</title>
+      <s:price currency="INR">20.00</s:price>
+      <s:sku>YPPASTAMASALA83</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6605667205174</id>
+    <published>2021-08-30T16:40:44+05:30</published>
+    <updated>2021-08-30T16:40:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-sour-cream-onion-pasta-65g-indore-idr"/>
+    <title>Sunfeast YiPPee! Sour Cream Onion Pasta 65g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YippeePastaSourCreamOnion65g1_c4c5d6c8-6f1c-4927-b421-8c29b45baf8b.jpg?v=1625921737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Pasta<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunfeast Pasta Treat is a delectable snack made from wheat semolina and no maida. The unique combination of sour cream and onion flavour will leave you asking for more of this Treat!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Indore-IDR</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstorePasta</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only pasta</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6605667205174</id>
+      <title>Default Title</title>
+      <s:price currency="INR">20.00</s:price>
+      <s:sku>YPPASTASCO83</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6609570201654</id>
+    <published>2021-08-30T15:58:00+05:30</published>
+    <updated>2021-08-30T15:58:00+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-magic-masala-560g-nagpur-nag"/>
+    <title>Sunfeast YiPPee Magic Masala 560g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALA93_8901725116736_1_da63c134-e683-41e6-a31c-dcf45e75c698.jpg?v=1626786407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            74.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relish Sunfeast YiPPee!'s long, non-sticky and safe noodles with a unique blend of spices which gives you a truly magical taste.</p>
+<ul>
+<li>Long Noodles</li>
+<li>Non Sticky</li>
+<li>Dehydrated Vegitables</li>
+<li>Healthy Noodles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>560g</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Nagpur-NAG</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:tag>Yippee! Noodles</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6609570201654</id>
+      <title>Default Title</title>
+      <s:price currency="INR">74.40</s:price>
+      <s:sku>MAGIC MASALA 93</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6609588224054</id>
+    <published>2021-08-30T15:55:16+05:30</published>
+    <updated>2021-08-30T15:55:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/itc-sunfeast-yippee-saucy-masala-260g-nagpur-nag"/>
+    <title>ITC Sunfeast YiPPee! Saucy Masala 260G</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YiPPee-Saucy-Masala---260g-Hero-Image_ecb02b36-115d-44d3-80ec-5352431db63c.jpg?v=1626787695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            46.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Relish Sunfeast YiPPee!'s long, non-sticky, Saucy noodles with a unique blend of tangy tomato sauce which gives you a truely magical taste. The Masala infused tomato sauce is a delectable new offering from Sunfeast YiPPee!</p>
+<h3 data-mce-fragment="1">How to use</h3>
+<p data-mce-fragment="1">Easy to make in 3 steps, just add the requisite amount of water to which add YiPPee! noodles and Saucy Masala taste maker and cook for 3 minutes</p>
+<p data-mce-fragment="1">1. A delectable blend of masala infused tomato sauce for a saucy and tangy meal<br data-mce-fragment="1">2. An experience of a differentiated and unique taste in YiPPee! saucy masala<br data-mce-fragment="1">3. Long, non-sticky noodles strands<br data-mce-fragment="1">4. YiPPee!'s signature round block ensures you get slurpy delicious noodles every time<br data-mce-fragment="1">5. Easy to prepare - Add saucy masala tastemaker for a quick saucy noodles meal</p>
+<p data-mce-fragment="1">Sunfeast YiPPee! Saucy Masala new tangy flavour from Sunfeast YiPPee! with masala infused tomato sauce for a unique taste experience</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>14/07</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Evening Snacks and Dips</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstoreNoodle</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Nagpur-NAG</s:tag>
+    <s:tag>New Launch</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Saucy Masala</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6609588224054</id>
+      <title>Default Title</title>
+      <s:price currency="INR">46.40</s:price>
+      <s:sku>SAUCY MASALA 260</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6609609949238</id>
+    <published>2021-08-30T15:54:21+05:30</published>
+    <updated>2021-08-30T15:54:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-power-up-atta-noodles-280g-4-in-1-pack-nagpur-nag"/>
+    <title>Sunfeast YiPPee! Power Up Atta Noodles 280g (4 in 1 Pack)</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/Resize-Power-Up-Atta-Noodles_280g_FOP_900x900Pixles-Copy_0ba41af3-3c3a-4ee5-a367-54aa93c557db.jpg?v=1626789083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            68.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A bowl of wheat atta noodles is the best healthy snack to enjoy within a matter of minutes. WithYiPPee! Atta Noodles, the wholesomeness of wheat and real vegetables join forces to power up your day. With YiPPee Power UpAtta Noodles, you can get the energy and nutrition to do great things and be a true champion. To make it more than just a bowl of tasty instant noodles, Sunfeast YiPPee! Atta Noodles brings together the perfect blend of masala and all-natural ingredients.</p>
+<p><strong>Key Information:</strong></p>
+<ul>
+<li>
+<strong>Main Ingredients: </strong>Sunfeast YiPPee! Power Up Masala Noodles are made from Wheat Flour (Atta).</li>
+<li>
+<strong>Suitable For: </strong>This product is suitable for all healthy individuals and fitness-oriented consumers who love to snack on instant masala noodles. Sunfeast YiPPee! Power Up Masala contains Atta noodles that are healthier and more nutritious than regular Maida-based instant noodles. It is an excellent source of energy and micronutrients for people leading an active lifestyle and wants more from their bowl of noodles. Young students, working professionals, and homemakers can enjoy this tasty, healthy, and filling snack.</li>
+<li>
+<strong>Usage: </strong>YiPPee! Atta Noodles can be used to prepare a scrumptious bowl of instant noodles for the perfect snack. Fresh vegetables like peas, carrots, green beans, and spring onions can be added to spice things up further.</li>
+<li>
+<strong>Quantity: </strong>One pack of YiPPee! Power Up Atta noodles 280g contains four blocks of instant wheat noodles and four packs of tastemakers. This quantity is enough to prepare four standard bowls of instant noodles for a family of four.</li>
+</ul>
+<p>Lip-smacking instant noodles have been an ever-popular snacking option for children and adults alike. With Sunfeast YiPPee! Power Up Masala Noodles, the combination of great taste and good health is now a possibility. The rich texture of the wheat noodles is packed with nutrition and goodness. It has also been infused with real vegetables in every strand. Each pack of wheat atta noodles from Sunfeast YiPPee! is packed with dietary fibre, protein, and loads of micronutrients. It is a rich source of calcium and iron which are highly beneficial for the human body. Together, the scrumptious taste of zesty masala along with long, non-sticky noodles and the promise of healthy nutrition make Sunfeast YiPPee!Atta noodles the perfect snack for everyone. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>280g</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Evening Snacks and Dips</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstoreNoodle</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Nagpur-NAG</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6609609949238</id>
+      <title>Default Title</title>
+      <s:price currency="INR">68.80</s:price>
+      <s:sku>YIPPEEPOWERUPND280</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6609610833974</id>
+    <published>2021-08-30T15:50:37+05:30</published>
+    <updated>2021-08-30T15:50:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-cheese-pasta-treat-65g-nagpur-nag"/>
+    <title>Sunfeast YiPPee! Cheese Pasta Treat 65g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YippeePastaCheese65g1_e97c5449-f890-43be-b143-2af6a0b1d8e5.jpg?v=1626789121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Pasta<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunfeast YiPPee! was the first to launch Instant Pasta in India and is a brand loved by all ages. 
+Sunfeast YiPPee! Pasta Treat is a delectable snack full of benefits – It is made from 100% Suji, not fried and is a source of protein. This delicious snack is not just wholesome but also very easy to cook.  
+Choose your favourite from the extensive range of flavours - Cheese, Masala, Tomato Cheese and Sour cream and onion. 
+</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstorePasta</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Nagpur-NAG</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only pasta</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>Tiffin Fun</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6609610833974</id>
+      <title>Default Title</title>
+      <s:price currency="INR">20.00</s:price>
+      <s:sku>YPPASTACHEESE83</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6609610702902</id>
+    <published>2021-08-30T15:50:36+05:30</published>
+    <updated>2021-08-30T15:50:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-tomato-cheese-pasta-treat-65g-nagpur-nag"/>
+    <title>Sunfeast YiPPee! Tomato Cheese Pasta Treat 65g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YippeePastaTomatoCheese65g1_0eace0bb-c638-4334-b7c4-52b4a200865d.jpg?v=1626789113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Pasta<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Sunfeast Pasta Treat is a delectable snack made from wheat semolina and no maida. The tangy tomato and cheese flavour combination will leave you asking for more of this Treat!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstorePasta</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Nagpur-NAG</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only pasta</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6609610702902</id>
+      <title>Default Title</title>
+      <s:price currency="INR">20.00</s:price>
+      <s:sku>YPPASTATMCHSE83</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6609610506294</id>
+    <published>2021-08-30T15:50:36+05:30</published>
+    <updated>2021-08-30T15:50:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-masala-pasta-treat-65g-nagpur-nag"/>
+    <title>Sunfeast YiPPee! Masala Pasta Treat 65g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YippeePastatreatMasala65g21_24e62f9d-e610-4859-afbd-23e9df4cadcb.jpg?v=1626789105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Pasta<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sunfeast YiPPee! was the first to launch Instant Pasta in India and is a brand loved by all ages. </span><span>Sunfeast YiPPee! Pasta Treat is a delectable snack full of benefits – It is made from 100% Suji, not fried and is a source of protein. This delicious snack is not just wholesome but also very easy to cook. </span><span>Choose your favourite from the extensive range of flavours - Cheese, Masala, Tomato Cheese and Sour cream and onion.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstorePasta</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Nagpur-NAG</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only pasta</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6609610506294</id>
+      <title>Default Title</title>
+      <s:price currency="INR">20.00</s:price>
+      <s:sku>YPPASTAMASALA83</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6609610113078</id>
+    <published>2021-08-30T15:50:35+05:30</published>
+    <updated>2021-08-30T15:50:35+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-sour-cream-onion-pasta-65g-nagpur-nag"/>
+    <title>Sunfeast YiPPee! Sour Cream Onion Pasta 65g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/YippeePastaSourCreamOnion65g1_4ec1465f-9556-4e8a-af3e-f0aeb663c857.jpg?v=1626789090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Pasta<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sunfeast Pasta Treat is a delectable snack made from wheat semolina and no maida. The unique combination of sour cream and onion flavour will leave you asking for more of this Treat!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>ITCstorePasta</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Nagpur-NAG</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only pasta</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6609610113078</id>
+      <title>Default Title</title>
+      <s:price currency="INR">20.00</s:price>
+      <s:sku>YPPASTASCO83</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6609594515510</id>
+    <published>2021-08-30T15:48:45+05:30</published>
+    <updated>2021-08-30T15:48:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/yippee-magic-masala-noodles-70g-nagpur-nag"/>
+    <title>Yippee! Magic Masala Noodles 70G</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/Magic_Masala_70g_BB_Hero_4dee6fa7-2dd8-4b42-a826-6f3bd6618919.jpg?v=1626788119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1. Sunfeast YiPPee! Magic Masala is the Flagship Variant of the YiPPee! Noodles portfolio. <br>2. Long, Non-sticky and Tasty noodles with a unique blend of spices which gives you a truly magical taste!<br>3. Round Block of Noodles which can be cooked as a whole, without having the need to break. <br>4. Enriched with goodness of 5 real vegetables<br>5. Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Magic Masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Nagpur-NAG</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>Noodles Pasta</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6609594515510</id>
+      <title>Default Title</title>
+      <s:price currency="INR">12.00</s:price>
+      <s:sku>MAGICMASALA90</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6615564189750</id>
+    <published>2021-08-19T19:53:03+05:30</published>
+    <updated>2021-08-19T19:53:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-noodles-magic-masala-67-5g-kolkata-kol"/>
+    <title>Sunfeast YiPPee! Noodles Magic Masala 67.5g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALA90-GM_8901725116958_1_1_305311d3-084c-4477-8aa0-59d1ecd05dba.jpg?v=1628084673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relish Sunfeast YiPPee!'s long, non-sticky and tasty noodles with a unique blend of spices which gives you a truly magical taste!<br data-mce-fragment="1"></p>
+<ul>
+<li>Long, Non-Sticky Noodles with the goodness of vegetables, essential nutrients and great taste. <br>
+</li>
+<li>Enriched with goodness of 5 real vegetables <br>
+</li>
+<li>Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein <br>
+</li>
+<li>Delicious blend of Indian spices that provide a magical experience of taste &amp; aroma. <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Food</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Kolkata-KOL</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6615564189750</id>
+      <title>Default Title</title>
+      <s:price currency="INR">12.00</s:price>
+      <s:sku>MAGICMASALA90-GM</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6601763520566</id>
+    <published>2021-08-19T10:15:36+05:30</published>
+    <updated>2021-08-19T10:15:36+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-noodles-magic-masala-270g-ahmedabad-amd"/>
+    <title>Sunfeast YiPPee! Noodles Magic Masala 270g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALAMRP40-GM_8901725117603_1.jpg?v=1627993782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            36.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relish Sunfeast YiPPee!'s long, non-sticky and tasty noodles with a unique blend of spices which gives you a truly magical taste!<br></p>
+<ul>
+<li>Long, Non-Sticky Noodles with the goodness of vegetables, essential nutrients and great taste. <br>
+</li>
+<li>Enriched with goodness of 5 real vegetables <br>
+</li>
+<li>Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein <br>
+</li>
+<li>Delicious blend of Indian spices that provide a magical experience of taste &amp; aroma. <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>27/07</s:tag>
+    <s:tag>Ahmedabad-AMD</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>foods_vp</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Stock Up</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6601763520566</id>
+      <title>Default Title</title>
+      <s:price currency="INR">36.80</s:price>
+      <s:sku>MAGICMASALAMRP40</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6606711095350</id>
+    <published>2021-08-19T10:06:30+05:30</published>
+    <updated>2021-08-19T10:06:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/yippee-magic-masala-noodles-70g-lucknow-luk"/>
+    <title>Yippee! Magic Masala Noodles 70G</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/Magic_Masala_70g_BB_Hero_8641394e-7c89-442b-bd33-8f0881ce3e51.jpg?v=1626185982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1. Sunfeast YiPPee! Magic Masala is the Flagship Variant of the YiPPee! Noodles portfolio. <br>2. Long, Non-sticky and Tasty noodles with a unique blend of spices which gives you a truly magical taste!<br>3. Round Block of Noodles which can be cooked as a whole, without having the need to break. <br>4. Enriched with goodness of 5 real vegetables<br>5. Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Lucknow-LUK</s:tag>
+    <s:tag>Magic Masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>Noodles Pasta</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6606711095350</id>
+      <title>Default Title</title>
+      <s:price currency="INR">12.00</s:price>
+      <s:sku>MAGICMASALA90</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/4911154724918</id>
+    <published>2021-08-19T10:03:07+05:30</published>
+    <updated>2021-08-19T10:03:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/yippee-magic-masala-noodles-60g-mumbai-bom"/>
+    <title>Yippee! Magic Masala Noodles 60G</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/Magic_Masala_60g_BB_Hero_616e29d5-44a1-484a-b77c-43e6606abbad.jpg?v=1612775165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">1. Sunfeast YiPPee! Magic Masala is the Flagship Variant of the YiPPee! Noodles portfolio. <br>2. Long, Non-sticky and Tasty noodles with a unique blend of spices which gives you a truly magical taste!<br>3. Round Block of Noodles which can be cooked as a whole, without having the need to break. <br>4. Enriched with goodness of 5 real vegetables<br>5. Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>70g</s:tag>
+    <s:tag>bestseller_home</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Evening Snacks and Dips</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Magic Masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Mumbai-BOM</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>Noodles Pasta</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Yippee Noodles</s:tag>
+    <s:tag>YiPPee!</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/4911154724918</id>
+      <title>Default Title</title>
+      <s:price currency="INR">12.00</s:price>
+      <s:sku>MAGICMASALA90</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6615484366902</id>
+    <published>2021-08-19T09:56:09+05:30</published>
+    <updated>2021-08-19T09:56:09+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-noodles-magic-masala-405g-hyderabad-hyd"/>
+    <title>Sunfeast YiPPee! Noodles Magic Masala 405g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALA67-GM_8901725116729_1_cc398397-1b9c-45cc-99e6-7b488603b5c7.jpg?v=1628070397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relish Sunfeast YiPPee!'s long, non-sticky and tasty noodles with a unique blend of spices which gives you a truly magical taste!<br data-mce-fragment="1"></p>
+<ul>
+<li>Long, Non-Sticky Noodles with the goodness of vegetables, essential nutrients and great taste. <br>
+</li>
+<li>Enriched with goodness of 5 real vegetables <br>
+</li>
+<li>Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein <br>
+</li>
+<li>Delicious blend of Indian spices that provide a magical experience of taste &amp; aroma. <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>405g</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>Hyderabad-HYD</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Sunfeast</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:tag>Yippee! Noodles</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6615484366902</id>
+      <title>Default Title</title>
+      <s:price currency="INR">56.00</s:price>
+      <s:sku>MAGICMASALA67-GM</s:sku>
+      <s:grams>405</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6615255416886</id>
+    <published>2021-08-19T09:52:47+05:30</published>
+    <updated>2021-08-19T09:52:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-noodles-magic-masala-270g-hyderabad-hyd"/>
+    <title>Sunfeast YiPPee! Noodles Magic Masala 270g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALAMRP40-GM_8901725117603_1_011b1e1d-132d-4c4e-bbc9-e8254b6fac89.jpg?v=1627996624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            36.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relish Sunfeast YiPPee!'s long, non-sticky and tasty noodles with a unique blend of spices which gives you a truly magical taste!<br></p>
+<ul>
+<li>Long, Non-Sticky Noodles with the goodness of vegetables, essential nutrients and great taste. <br>
+</li>
+<li>Enriched with goodness of 5 real vegetables <br>
+</li>
+<li>Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein <br>
+</li>
+<li>Delicious blend of Indian spices that provide a magical experience of taste &amp; aroma. <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>27/07</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>foods_vp</s:tag>
+    <s:tag>Hyderabad-HYD</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Stock Up</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6615255416886</id>
+      <title>Default Title</title>
+      <s:price currency="INR">36.80</s:price>
+      <s:sku>MAGICMASALAMRP40-GM</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6615254597686</id>
+    <published>2021-08-19T09:48:47+05:30</published>
+    <updated>2021-08-19T09:48:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-noodles-magic-masala-270g-chennai-maa"/>
+    <title>Sunfeast YiPPee! Noodles Magic Masala 270g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALAMRP40-GM_8901725117603_1_7b42f29a-47c1-4dcc-9b1c-d1a7a1076342.jpg?v=1627996430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            36.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relish Sunfeast YiPPee!'s long, non-sticky and tasty noodles with a unique blend of spices which gives you a truly magical taste!<br></p>
+<ul>
+<li>Long, Non-Sticky Noodles with the goodness of vegetables, essential nutrients and great taste. <br>
+</li>
+<li>Enriched with goodness of 5 real vegetables <br>
+</li>
+<li>Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein <br>
+</li>
+<li>Delicious blend of Indian spices that provide a magical experience of taste &amp; aroma. <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>27/07</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Chennai-MAA</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>foods_vp</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Stock Up</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6615254597686</id>
+      <title>Default Title</title>
+      <s:price currency="INR">36.80</s:price>
+      <s:sku>MAGICMASALAMRP40-GM</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://itcstore.in/products/6615254270006</id>
+    <published>2021-08-19T09:39:19+05:30</published>
+    <updated>2021-08-19T09:39:19+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://itcstore.in/products/sunfeast-yippee-noodles-magic-masala-270g-bangalore-blr"/>
+    <title>Sunfeast YiPPee! Noodles Magic Masala 270g</title>
+    <s:type>Foods</s:type>
+    <s:vendor>Sunfeast YiPPee! Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0173/7644/4470/products/MAGICMASALAMRP40-GM_8901725117603_1_da103ab5-e539-46c8-8754-05601086e0ca.jpg?v=1627996340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunfeast YiPPee! Noodles<br>
+        <strong>Type: </strong>Foods<br>
+        <strong>Price: </strong>
+            36.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relish Sunfeast YiPPee!'s long, non-sticky and tasty noodles with a unique blend of spices which gives you a truly magical taste!<br></p>
+<ul>
+<li>Long, Non-Sticky Noodles with the goodness of vegetables, essential nutrients and great taste. <br>
+</li>
+<li>Enriched with goodness of 5 real vegetables <br>
+</li>
+<li>Goodness of 5 essential Nutrients - Calcium, Vitamin C, Iron, Folic Acid, Protein <br>
+</li>
+<li>Delicious blend of Indian spices that provide a magical experience of taste &amp; aroma. <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12%</s:tag>
+    <s:tag>27/07</s:tag>
+    <s:tag>Bangalore-BLR</s:tag>
+    <s:tag>best_sellers</s:tag>
+    <s:tag>Binge and Chill</s:tag>
+    <s:tag>Foods</s:tag>
+    <s:tag>foods_vp</s:tag>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>magic masala</s:tag>
+    <s:tag>mbm_yippee</s:tag>
+    <s:tag>mood masala</s:tag>
+    <s:tag>Noodle</s:tag>
+    <s:tag>Noodles and Pasta</s:tag>
+    <s:tag>NOODLES PASTA</s:tag>
+    <s:tag>noodles_and_pasta</s:tag>
+    <s:tag>only noodles</s:tag>
+    <s:tag>Pasta</s:tag>
+    <s:tag>power up atta</s:tag>
+    <s:tag>quik meal</s:tag>
+    <s:tag>Snacks and Branded Foods</s:tag>
+    <s:tag>Stock Up</s:tag>
+    <s:tag>Sunfeast YiPPee</s:tag>
+    <s:tag>tricolor</s:tag>
+    <s:tag>Vermicelli</s:tag>
+    <s:tag>Yippee</s:tag>
+    <s:variant>
+      <id>https://itcstore.in/products/6615254270006</id>
+      <title>Default Title</title>
+      <s:price currency="INR">36.80</s:price>
+      <s:sku>MAGICMASALAMRP40-GM</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+</feed>
